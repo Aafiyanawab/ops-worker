@@ -1,0 +1,7 @@
+{
+  "success": true,
+  "summary": "Found the latest invoice for Northwind Traders (INV-2087, issued 18 Sep 2026, amount 51,780.50, due 18 Oct 2026) and successfully entered it into the ERP. Verified via API.",
+  "evidence": [
+    "Invoice INV-2087 successfully created in ERP with vendor 'Northwind Traders', amount 51780.5, due date 2026-10-18. Verified via /erp/api/bills?invoice_no=INV-2087."
+  ]
+}
