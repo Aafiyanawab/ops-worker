@@ -103,4 +103,4 @@ Google Gemini API (free tier) with native function calling via `google-genai`. D
 Declarative permission policy (per tool / per amount), structured "expected outcome" contracts verified in code, cross-run procedural memory (reuse successful plans), a task queue with resumable runs, a replayable eval suite with failure injection, a desktop/computer-use backend using screenshots, and secrets handling with scoped credentials.
 
 ## AI tools used
-I used an AI assistant (Claude) while building this project, along with Gemini as the runtime model. I have reviewed the code and can explain, debug and modify each module.
+I used an AI assistant (Claude) while building this project, along with Gemini as the runtime model. I have reviewed the code of each module.
